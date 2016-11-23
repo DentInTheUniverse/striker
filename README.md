@@ -1,2 +1,2 @@
 # striker
-My first git project
+My first git project in this world!
